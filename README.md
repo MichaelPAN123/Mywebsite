@@ -49,3 +49,8 @@ So I made three links on the top of home page.
 ```
 The result is 2.png. My idea is to turn the three sections into links to the other three pages, with a few of my works on the Home page. 
 The vast majority of problems can be solved through online search, there is no problem can not be solved for now. 
+
+
+2020/1/10
+
+I am now trying to make three other pages for my website. And trying to add some photos for my home page.
