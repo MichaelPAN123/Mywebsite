@@ -1,6 +1,7 @@
 # Mywebsite
 I'm trying to make my own website by coding HTML and JavaScript in Atom. 
 
+2020/1/9 20:13
 I wrote a few lines of code to determine my web style in css file. 
   
   ```	
@@ -11,6 +12,7 @@ I wrote a few lines of code to determine my web style in css file.
    margin-top: 1.25em;
    margin-bottom: 0.8em;
    ```
+20:30
 My website looks pretty basic at the moment, the background is black and the lines are yellow. All of this may change in the future. My plan is to make three sections for my website, namely the home page, personal information and contact information, which are the most basic part of the personal website.
 So I made three links on the top of home page.
 
@@ -43,4 +45,5 @@ So I made three links on the top of home page.
 		<div class="column">
 			<p>
 ```
-The result is 2.png. 
+The result is 2.png. My idea is to turn the three sections into links to the other three pages, with a few of my works on the Home page. 
+The vast majority of problems can be solved through online search, there is no problem can not be solved for now. 
